@@ -1,4 +1,4 @@
-# Battery Percentage Widget
+# Horus Battery Percentage Widget
 Displays Percentage of Lipo, from single voltage source
 
 Widget available for all telemetry panel sizes
